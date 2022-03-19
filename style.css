@@ -30,8 +30,44 @@ body {
     font-size: 28px;
     font-weight: 800;
     border-bottom: 1px solid hsl(193, 38%, 86%, 0.3);
-    padding-bottom: 40px;
-    margin-bottom: 50px;
+    margin-bottom: 10px;
+}
+
+.box {
+    height: 40px;
+    width: 40px;
+    background-color:hsl(217, 19%, 24%);
+    position: relative;
+    bottom: -20px;
+    margin: auto;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-evenly;
+    padding: 2px;
+}
+
+.left {
+    background-color:hsl(193, 38%, 86%);
+    height: 16px;
+    width: 6px;
+    border-radius: 5px;
+}
+.right {
+    background-color:hsl(193, 38%, 86%);
+    height: 16px;
+    width: 6px;
+    border-radius: 5px;  
+}
+
+.dice {
+    height: 60px;
+    width: 60px;
+    background-color: hsl(150, 100%, 66%);
+    border-radius: 40px;
+    margin: auto;
+    position: relative;
+    bottom: -60px;
 }
 
 .attribution { 
