@@ -60,7 +60,7 @@ body {
     border-radius: 5px;  
 }
 
-.dice {
+.dice_box {
     height: 60px;
     width: 60px;
     background-color: hsl(150, 100%, 66%);
@@ -68,6 +68,15 @@ body {
     margin: auto;
     position: relative;
     bottom: -60px;
+    transition: box-shadow .3s;
+}
+.dice_box:hover {
+    box-shadow: 0 0 30px hsl(150, 100%, 66%) ;
+ }
+
+.dice {
+    position: relative;
+    top: 18px;
 }
 
 .attribution { 
