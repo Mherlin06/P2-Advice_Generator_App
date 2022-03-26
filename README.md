@@ -30,8 +30,8 @@ Users should be able to:
 
 ### Screenshot
 
-![Desktop design](images\Screenshot_design.png)
-![Desktop view with active states](images\Screenshot_design_onHover.png)
+![Desktop design](https://raw.github.com/Mherlin06/P2-Advice_Generator_App/blob/main/images/Screenshot_design.png)
+![Desktop view with active states](https://raw.github.com/Mherlin06/P2-Advice_Generator_App/blob/main/images/Screenshot_design_onHover.png)
 
 ### Links
 
