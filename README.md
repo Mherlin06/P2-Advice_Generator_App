@@ -30,8 +30,8 @@ Users should be able to:
 
 ### Screenshot
 
-![Desktop design](images\Screenshot_design_onHover.png)
-![Desktop view with active states](images\Screenshot_design_onHover.png)
+![Desktop design](.images\Screenshot_design_onHover.png)
+![Desktop view with active states](.images\Screenshot_design_onHover.png)
 
 ### Links
 
